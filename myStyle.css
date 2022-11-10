@@ -1,0 +1,10 @@
+li{
+	color: red;
+	/*font-size: 50px;*/
+	padding: 5px;
+	/*font-weight: 500; */
+	font: 50px bolder italic !important; 
+}
+body{
+	border: 2px solid black;
+}
